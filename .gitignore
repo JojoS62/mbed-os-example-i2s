@@ -2,3 +2,4 @@
 .mbed
 projectfiles
 *.py*
+.vscode
